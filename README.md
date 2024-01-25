@@ -1,4 +1,6 @@
 **HOSTED URL HAS BEEN PROVIDED IN THE API ENDPOINTS SECTION (AS DEMANDED IN THE DELIVERABLES)**
+**The dump of mysql database is in present in the zip file submitted named as dump.sql**
+
 GITHUB LINK: https://github.com/ayushprusty/blacklight-matters.git
 
 **For running on local:**
