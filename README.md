@@ -20,9 +20,10 @@ This Flask application provides an API for accessing leaderboard data from a MyS
 
 Accessing the Endpoints
 for accessing the endpoints, the flask app has been hosted on : http://139.59.89.244:8080/
-1.http://139.59.89.244:8080/current-week-leaderboard
-2.http://139.59.89.244:8080/last-week-leaderboard/<country_code>
-3.http://139.59.89.244:8080/last-week-leaderboard/<user_id>
+ 1. http://139.59.89.244:8080/current-week-leaderboard
+ 2. http://139.59.89.244:8080/last-week-leaderboard/<country_code>
+ 3. http://139.59.89.244:8080/last-week-leaderboard/<user_id>
+
 
 --country codes and uids can be picked from the database--
 
